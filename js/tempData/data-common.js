@@ -83,7 +83,7 @@ const comData = {
                 <li class="white">
                     <a href="project.html">Project</a>
                 </li>
-                <li class="white">
+                <li class="white" style="display : none">
                     <a href="#">Contact</a>
                 </li>
                 <li>
@@ -252,9 +252,9 @@ const comData = {
                                 <div>10</div>
                                 <p>Projects</p>
                             </li>
-                            <!-- 나의 2번째 프로젝트 -->
+                            <!-- 나의 6번째 프로젝트 -->
                             <li>
-                                <div>My 2nd</div>
+                                <div>My 6th</div>
                                 <p>Project</p>
                             </li>
                             <!-- 만든이 -->

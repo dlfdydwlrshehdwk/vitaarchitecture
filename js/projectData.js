@@ -46,8 +46,8 @@ let pdata = [
 		opening out to the garden. Upstairs various additions allow for<br>
 		additional bedroom spaces and bathrooms with wider views<br>
 		looking out to the rear of the property.`,
-        중간사진텍스트: "무언가 텍스트가 들어가야 하는<br>그런 위치에 <br>그런 곳",
-        배경색박스텍스트: "어저구저쩌구<br>blah blah..<br>어절씨구 절씨구",
+        중간사진텍스트: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        배경색박스텍스트: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         배경색박스배경색: {backgroundColor :"skyblue"},
         다음프로젝트명: "COLOURED CONCRETE HOUSE",
     },
